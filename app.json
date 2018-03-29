@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "vconnect",
+    "version": "1.0.0",
+    "icon": "https://i.pinimg.com/originals/b2/a6/f5/b2a6f504e715eabb81def2879f0efb10.png",
+    "slug": "your-app-slug",
+    "sdkVersion": "25.0.0",
+    "ios": {
+      "bundleIdentifier": "com.vconnect.app1"
+    },
+    "android": {
+      "package": "com.vconnect.app1"
+    },
+    "splash": {
+      "image": "https://i.pinimg.com/originals/b2/a6/f5/b2a6f504e715eabb81def2879f0efb10.png",
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+}
